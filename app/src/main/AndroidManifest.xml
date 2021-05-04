@@ -10,6 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SQLite">
         <activity android:name=".TemanBaru"></activity>
+        <activity android:name=".LihatData" />
+        <activity android:name=".EditData" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
